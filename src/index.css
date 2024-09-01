@@ -1,0 +1,11 @@
+body {
+    font-family: Netflix Sans,
+        Helvetica Neue,
+        Segoe UI,
+        Roboto,
+        Ubuntu,
+        sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    background: black;
+}
